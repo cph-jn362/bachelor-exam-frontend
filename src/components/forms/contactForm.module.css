@@ -1,0 +1,27 @@
+.default{
+    width: 70%;
+    margin: auto;
+    margin-top: 105px;
+}
+
+.default > div {
+    padding: 2em;
+    border: 2px solid rgb(30, 131, 247);
+    border-radius: 8px;
+
+}
+
+.default > div > input[type=text], .default > div > textarea {
+    width: 100%;
+    padding: 1em;
+    border: 2px solid rgb(30, 131, 247);
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 1em;
+    box-sizing: border-box
+}
+
+.default > div > textarea{
+    height: 320px;
+    margin-bottom: 2em;
+}

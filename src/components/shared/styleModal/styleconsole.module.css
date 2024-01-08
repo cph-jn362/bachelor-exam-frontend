@@ -1,0 +1,25 @@
+.toggle_button {
+  background: rgba(30, 30, 30);
+  color: white;
+  border-radius: 10px;
+  position: fixed;
+  padding: 1em 1.2em;
+  left: 95%;
+  bottom: 20px;
+  border: 2px solid rgba(172, 172, 172, 0.8);
+  cursor: pointer;
+  transition: 0.3s;
+  z-index: 4;
+}
+
+.toggle_button:hover {
+  background: rgb(60, 60, 60);
+  transition: 0.3s;
+}
+
+.icon {
+  position: relative;
+  width: 25px;
+  right: 2px;
+  top: 2px;
+}

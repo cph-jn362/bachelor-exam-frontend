@@ -1,0 +1,18 @@
+
+/* ============ Flat design - Styling ============ */
+
+
+.primary_flat {
+    color: white;
+    background-color: rgb(30, 63, 247);
+    font-family: "Roboto";
+    font-weight: 700;
+    padding: 1em 2.5em;
+    border-radius: 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+

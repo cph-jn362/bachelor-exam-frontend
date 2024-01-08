@@ -1,0 +1,14 @@
+.default{
+    display: flex;
+}
+
+
+.default > input[type=text] {
+    width: 100%;
+    padding: 1em;
+    border: 2px solid rgb(30, 131, 247);
+    border-radius: 8px;
+    font-size: 16px;
+    margin-right: 1em;
+    box-sizing: border-box
+}
