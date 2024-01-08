@@ -1,0 +1,13 @@
+.layout {
+  margin: 0 11.5em;
+}
+
+.content {
+  display: flex;
+  margin-top: 90px;
+  justify-content: space-between;
+}
+
+.content > div > h1 {
+  margin-top: 0;
+}
